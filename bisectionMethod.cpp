@@ -1,8 +1,6 @@
 /*TASK*/
 /*To find solution of equation f(x) = (x - g * k)^2 + sin(x - g * k) = 0 
 (where g and k any numbers, start - begin of segment, end - end of segment, eps - precision) using bisection method*/
-/*Знайти розв'язок рівняння f(x) = (x - g * k)^2 + sin(x - g * k) = 0
-(де g і k будь-які цифри, start - початок відрізка, end - кінець відрізка, eps - точність) використовуючи метод половинного ділення*/
 
 #include <iostream>
 #include <math.h>
